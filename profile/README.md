@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center' style='width= 250px; height=250px;'>
    <img src='https://repo.enmity.app/banner.png' />
 </div>
 
