@@ -1,3 +1,16 @@
-# Enmity
+<div align='center'>
+   <img src='https://repo.enmity.app/banner.png' />
+</div>
 
-Coming soon to your iOS device.
+---
+
+<div align='center'>
+   <h3>Enmity</h3>
+   <p>
+      The power of addons, all in your hand.
+      <br />
+      <b>Discord Client Modification</b>
+   </p>
+</div>
+
+---
