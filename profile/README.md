@@ -11,6 +11,8 @@
       <br />
       <b>Discord Client Modification</b>
    </p>
+   
+   <a href='https://github.com/enmity-mod/tweak/releases/latest/'>Download</a>
 </div>
 
 ---
