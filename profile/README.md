@@ -2,17 +2,9 @@
    <img src='https://github.com/enmity-mod/assets/blob/main/Enmity_Banner.png?raw=true' />
 </div>
 
----
+<br />
 
 <div align='center'>
-   <h3>Enmity</h3>
-   <p>
-      The power of addons, all in your hand.
-      <br />
-      <b>Discord Client Modification</b>
-   </p>
-   
-   <a href='https://github.com/enmity-mod/tweak/releases/latest/'>Download</a>
+   Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. Access a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go. <br><br>
+   <a href='https://github.com/enmity-mod/tweak/releases/latest/'>Website</a> | <a href='https://github.com/enmity-mod/tweak/releases/latest/'>Download</a> | <a href='https://github.com/enmity-mod/tweak/releases/latest/'>APT Repository</a>
 </div>
-
----
