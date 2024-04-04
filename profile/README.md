@@ -6,5 +6,5 @@
 
 <div align='center'>
    Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. Access a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go. <br><br>
-   <a href='https://github.com/enmity-mod/tweak/releases/latest/'>Website</a> | <a href='https://github.com/enmity-mod/tweak/releases/latest/'>Download</a> | <a href='https://github.com/enmity-mod/tweak/releases/latest/'>APT Repository</a>
+   <a href='https://enmity.unbound.rip'>Website</a> | <a href='https://enmity.unbound.rip/download'>Download</a> | <a href='https://enmity-mod.github.io/repo'>APT Repository</a>
 </div>
